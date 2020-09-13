@@ -1,0 +1,9 @@
+discord
+pillow
+dlib
+pydub
+youtube_dl
+moviepy
+wand
+opencv-python
+numpy
